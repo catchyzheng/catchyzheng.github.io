@@ -14,5 +14,3 @@ Welcome to catchy's home page!
 
 [try Click me](https://leetcode.com/contest/){: .btn}
 
-
-![my recent picture..](swag.JPG "in colorado")
